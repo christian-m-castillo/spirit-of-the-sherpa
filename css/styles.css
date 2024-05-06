@@ -13,13 +13,13 @@ body {
 h1 {
   font-weight: 100;
   text-align: center;
-  padding: 1rem;
-  font-size: 4vmin;
+  padding: 2.3vmin;
+  font-size: 4.8vmin;
 }
 
 .honor {
-  font-size: 3vmin;
-  margin: .5rem;
+  font-size: 3.6vmin;
+  margin: 1.8vmin;
   color: #aaa;
 }
 
@@ -48,7 +48,7 @@ h1 {
 }
 
 h3 {
-  font-size: 2.7vmin;
+  font-size: 3vmin;
   font-weight: 100;
 }
 
